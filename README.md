@@ -46,19 +46,12 @@ YOLOv8은 빠른 속도와 높은 정확도를 제공하여 실시간 응용 프
 
 ## Dataset
 
-- 동물,사람 그림 분류 데이터셋을 활용합니다.
-- ['dog', 'elephant', 'giraffe', 'guitar', 'horse', 'house', 'person'] 등 총 7개의 class로 이미지가 분류되어있습니다.
+- [Kaggle] 그림 분류 과제 데이터셋
 
 <br /><br /> 
 ## Libraries used
 
 
-
-<br /><br /> 
-## File explanation
-
-<br /><br /> 
-## Version
 
 <br /><br /> 
 ## Result
